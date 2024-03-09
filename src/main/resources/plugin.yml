@@ -1,4 +1,4 @@
-name: slimechunk
+name: SlimeChunk
 version: '${project.version}'
 main: me.taako.slimechunk.Slimechunk
 api-version: '1.20'
