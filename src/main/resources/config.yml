@@ -1,0 +1,4 @@
+# Message displayed when the player is in a slime chunk
+message-in-chunk: "&aYou are standing in a slime chunk!"
+# Message displayed when the player is not in a slime chunk
+message-not-in-chunk: "&cLooks like you're not in a slime chunk."

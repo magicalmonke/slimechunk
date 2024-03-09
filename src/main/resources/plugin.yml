@@ -1,0 +1,12 @@
+name: slimechunk
+version: '${project.version}'
+main: me.taako.slimechunk.Slimechunk
+api-version: '1.20'
+authors: [Taako]
+description: Quickly identify if you're in a slime chunk
+website: https://taako.me
+commands:
+  slimechunk:
+    description: Checks if you're currently standing in a slime chunk.
+    usage: /<command>
+    permission: slimechunk.command.slimechunk
