@@ -10,3 +10,7 @@ commands:
     description: Checks if you're currently standing in a slime chunk.
     usage: /<command>
     permission: slimechunk.command.slimechunk
+permissions:
+    slimechunk.command.slimechunk:
+      description: Allows players to use the "/slimechunk" command to check if they are standing in a slime chunk.
+      default: true
