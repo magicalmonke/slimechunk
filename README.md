@@ -11,4 +11,4 @@ This lightweight plugin enables you to identify slime chunks effortlessly throug
 | `slimechunk` | `slimechunk.commands.slimechunk` | `true`  |Checks if you're currently standing in a slime chunk.|
 
 ## Default Config
-[**Latest Config with Descriptions**](https://taako.me)
+[**Latest Config with Descriptions**](https://github.com/magicalmonke/slimechunk/blob/master/src/main/resources/config.yml)
