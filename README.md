@@ -8,7 +8,7 @@ This lightweight plugin enables you to identify slime chunks effortlessly throug
 ## Commands & Permissions
 | Command    | Permission                     | Default | Description |
 |------------|--------------------------------|---------|-------------|
-| `slimechunk` | `slimechunk.commands.slimechunk` | `false` |Checks if you're currently standing in a slime chunk.|
+| `slimechunk` | `slimechunk.commands.slimechunk` | `true`  |Checks if you're currently standing in a slime chunk.|
 
 ## Default Config
 [**Latest Config with Descriptions**](https://taako.me)
