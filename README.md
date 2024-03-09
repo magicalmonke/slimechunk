@@ -1,4 +1,4 @@
-# Slime Chunk
+# SlimeChunk
 This lightweight plugin enables you to identify slime chunks effortlessly through a simple command, allowing you to instantly ascertain whether you're currently standing in one.
 
 ## Features
